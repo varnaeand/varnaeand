@@ -2,6 +2,8 @@
 
 Hi, I'm varnaeand!
 
+Check out my new [portfolio](https://varnaeand.github.io/portfolio)!
+
 <!--
 **varnaeand/varnaeand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
